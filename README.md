@@ -1,2 +1,4 @@
 # Project_possible
-![workflow](https://github.com/WaiYan083/Project_possible/actions/workflows/main.yml/badge.svg)
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/WaiYan083/Project_possible/<action name taken from main.yml>/develop?style=flat-square)
