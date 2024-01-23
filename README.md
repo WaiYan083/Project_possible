@@ -3,4 +3,4 @@
 
 [![LICENSE](https://img.shields.io/github/license/WaiYan083/Project_possible.svg?style=flat-square)](https://github.com/WaiYan083/Project_possible/blob/main/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/WaiYan083/sem/all.svg?style=flat-square)](https://github.com/WaiYan083/Project_possible/releases)
+[![Releases](https://img.shields.io/github/release/WaiYan083/Project_possible/all.svg?style=flat-square)](https://github.com/WaiYan083/Project_possible/releases)
